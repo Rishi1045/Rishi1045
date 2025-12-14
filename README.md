@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 💻 Building **modern, scalable web applications**
+- 💻 Building **modern web applications**
 - 🧠 Learning **Machine Learning & Deep Learning**
 - 🧩 Strong interest in **DSA & problem solving**
-- 🎨 Passionate about **UI/UX & video editing**
+- 🎨 Passionate about **Backend Technologies**
 - 📈 Focused on **clean architecture & performance**
 
 ---
